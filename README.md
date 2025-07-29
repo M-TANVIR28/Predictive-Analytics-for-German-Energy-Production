@@ -1,4 +1,4 @@
-# German Energy Generation Forecasting
+# Predictive Analytics for German Energy Production
 
 ## Project Overview
 
