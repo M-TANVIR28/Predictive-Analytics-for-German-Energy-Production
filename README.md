@@ -65,7 +65,7 @@ The surprisingly strong performance of the Naive Forecast highlights the signifi
 * `GermanEnergyForecastingProject.ipynb`: The main Jupyter Notebook containing the analysis, model training, and evaluation.
 * `RawData/`: Folder containing the raw energy generation CSV files.
 * `README.md`: This file.
-* (Add any other files like `requirements.txt` if you have them)
+
 
 ## How to Run the Project (Locally)
 
